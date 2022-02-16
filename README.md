@@ -9,6 +9,7 @@ npm run dev
 # or
 yarn dev
 ```
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5564f21d-a00a-4176-8bb6-b98b3b7ba72b/deploy-status)](https://app.netlify.com/sites/next12-deploy/deploys)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
